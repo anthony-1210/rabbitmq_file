@@ -1,4 +1,2 @@
-"# rabbitmq_file" 
-"# rabbitmq_file" 
-"# rabbitmq_file" 
-"# rabbitmq_file" 
+rabbitmq file with worker queue mode
+
